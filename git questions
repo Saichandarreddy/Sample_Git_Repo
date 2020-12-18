@@ -14,4 +14,7 @@ what is rebase and merge
 
 git diff
 
-how to change git branch
+how to change git branch?
+
+git checkout branch-name
+
