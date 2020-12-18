@@ -21,3 +21,8 @@ git merge?
 
 what is rebase and merge
 
+how to craeate new git branch?
+
+hoe to deleTe git branch?
+
+git branch -d <branch-name>
