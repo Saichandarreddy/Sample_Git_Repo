@@ -13,3 +13,6 @@ def git_pull():
 def git_changes_from_patch_1():
     print('trying to create merge conflict')
 
+def git_merge():
+    pass
+
