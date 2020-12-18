@@ -16,3 +16,6 @@ def git_changes_from_patch_1():
 def git_merge():
     pass
 
+def git_rebase():
+    pass
+
